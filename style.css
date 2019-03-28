@@ -32,3 +32,12 @@ body{
   background-color: rgb(107, 218, 107);
   border: solid;
 }
+
+#stats-box{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#gnome-stats{
+  padding-bottom: 15px;
+}
